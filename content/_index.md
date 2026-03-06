@@ -8,6 +8,10 @@ image:
   caption: NASA
 ---
 
+# Email wang@fenjin.ai if you have my airpod case, thanks in advance!
+
+
+
 Welcome to the _Second Brain_ template!
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
